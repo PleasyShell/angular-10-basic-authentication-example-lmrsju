@@ -1,3 +1,4 @@
-# angular-10-basic-authentication-example-lmrsju
+# NewMobileServer
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/PleasyShell/angular-10-basic-authentication-example-lmrsju)
+Новый мобильный сервер на основе JWT, с защитой от XSS/XSRF атак для нашего предприятия.
+Angular 16.2.13/Node v18.10.0![events-test](https://github.com/user-attachments/assets/40afa033-7dc1-4268-9a76-ec3166dfdff6)
